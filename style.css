@@ -17,3 +17,12 @@ section{
        display: flex;
        justify-content: center;  
     }
+img{
+     height: 200px;
+}
+.categoria-videos{
+     display: flex;
+     overflow-x: auto;
+     padding-right;
+     gap: 10px;
+}
